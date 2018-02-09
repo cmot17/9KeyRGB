@@ -1,0 +1,54 @@
+Partlist
+
+Exported from 9KeyRGB.brd at 2/8/18 7:13 PM
+
+EAGLE Version 8.6.1 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value               Package     Library                     Position (mm)         Orientation
+
+C1       0.1uF               0603        SparkFun-Capacitors         (57.785 38.1)         R270
+C2       18pF                0603        SparkFun-Capacitors         (71.2 26.735)         R0
+C3       18pF                0603        SparkFun-Capacitors         (71.2 28.775)         R180
+C4       0.1uF               0603        SparkFun-Capacitors         (77.3 17.4)           R90
+C5       0.1uF               0603        SparkFun-Capacitors         (67.31 25.4)          R90
+C6       0.1uF               0603        SparkFun-Capacitors         (58.42 24.765)        R180
+C7       0.1uF               0603        SparkFun-Capacitors         (59.045 47.225)       R0
+C8       0.1uF               0603        SparkFun-Capacitors         (59.055 45.085)       R180
+C9       0.47uF              0603        SparkFun-Capacitors         (77.3 13.6)           R270
+C10      0.1uF               0603        SparkFun-Capacitors         (69.61 7.52)          R90
+C11      0.47uF              0603        SparkFun-Capacitors         (65.405 25.4)         R270
+C12      0.1uF               0603        SparkFun-Capacitors         (71.715 7.52)         R90
+C13      0.47uF              0603        SparkFun-Capacitors         (58.42 22.86)         R0
+C14      0.47uF              0603        SparkFun-Capacitors         (58.42 26.67)         R0
+D1       BAS16L              BAS16L      Ben's Parts                 (17.145 50.165)       R0
+D2       BAS16L              BAS16L      Ben's Parts                 (36.195 50.165)       R0
+D3       BAS16L              BAS16L      Ben's Parts                 (36.195 38.735)       R0
+D4       BAS16L              BAS16L      Ben's Parts                 (17.145 31.115)       R0
+D5       BAS16L              BAS16L      Ben's Parts                 (36.195 31.115)       R0
+D6       BAS16L              BAS16L      Ben's Parts                 (36.195 19.685)       R0
+D7       BAS16L              BAS16L      Ben's Parts                 (17.145 12.065)       R0
+D8       BAS16L              BAS16L      Ben's Parts                 (36.195 12.065)       R0
+D9       BAS16L              BAS16L      Ben's Parts                 (36.195 0.635)        R0
+IS1      IS31FL3733          IS31FL3733  Ben's Parts                 (68.3 16.1)           R90
+J2       AVR_SPI_PROG_3X2PTH 2X3         SparkFun-Connectors         (59.055 1.905)        R0
+J3       USB_MINI-B_SMT      USB-MINIB   SparkFun-Connectors         (72.39 51.435)        R270
+MX1      ZEALIO-RGB          ZEALIO-RGB  Ben's Parts                 (9.525 47.625)        R0
+MX2      ZEALIO-RGB          ZEALIO-RGB  Ben's Parts                 (28.575 47.625)       R0
+MX3      ZEALIO-RGB          ZEALIO-RGB  Ben's Parts                 (47.625 47.625)       R0
+MX4      ZEALIO-RGB          ZEALIO-RGB  Ben's Parts                 (9.525 28.575)        R0
+MX5      ZEALIO-RGB          ZEALIO-RGB  Ben's Parts                 (28.575 28.575)       R0
+MX6      ZEALIO-RGB          ZEALIO-RGB  Ben's Parts                 (47.625 28.575)       R0
+MX7      ZEALIO-RGB          ZEALIO-RGB  Ben's Parts                 (9.525 9.525)         R0
+MX8      ZEALIO-RGB          ZEALIO-RGB  Ben's Parts                 (28.575 9.525)        R0
+MX9      ZEALIO-RGB          ZEALIO-RGB  Ben's Parts                 (47.625 9.525)        R0
+R1       22                  0603        SparkFun-Resistors          (71.825 45.685)       R270
+R2       22                  0603        SparkFun-Resistors          (73.765 45.685)       R270
+R3       20K                 0603        SparkFun-Resistors          (61.95 23.42)         R0
+R4       1K                  0603        SparkFun-Resistors          (59.69 10.16)         R0
+R5       1K                  0603        SparkFun-Resistors          (59.69 7.62)          R0
+S1                           TACTILE-PTH SparkFun-Retired            (61.595 53.34)        R0
+U$1      32U4                TQFP44      SparkFun-IC-Microcontroller (66.04 36.83)         R0
+U$2      EEA-FC1A220         EEA-FC1A220 Ben's Parts                 (74.93 7.62)          R90
+Y1       16MHz               HC49US      SparkFun-Clocks             (76.2 25.4)           R270
